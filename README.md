@@ -60,6 +60,8 @@ Percentage|Activity                 |Example
 From [the overview of my teaching](https://richelbilderbeek.github.io/teaching/teaching_overview/),
 one can conclude I teach around once per week.
 
+![Teaching overview](teaching.png)
+
 This is useful to you, if:
 
 - want to teach
@@ -76,6 +78,8 @@ Together with Elin Kronander, we lead
 [the NBIS teaching literature club](https://nbisweden.github.io/teaching_literature_club/),
 which takes place around once a month.
 
+![NBIS Teaching Literature Club](tlc.png)
+
 This is useful to you, if:
 
 - you want to improve your teaching based on the academic literature
@@ -85,6 +89,8 @@ This is useful to you, if:
 With some colleagues, we are starting up a
 [teaching peer observation group](https://richelbilderbeek.github.io/teaching/peer_observations),
 to observe each others' teaching as equals.
+
+![Peer observations](peer_observations.png)
 
 This is useful to you, if:
 
@@ -99,6 +105,8 @@ With another colleague, we are working on
 called 'Improving the ELIXIR evaluation for both management and trainers'
 with evaluates the ELIXIR/NBIS evaluation.
 
+![ELIXIR evaluation evaluation](elixir_evaluation_evaluation.png)
+
 This is useful to you, if:
 
 - you want to know which questions -according to the academic literature-
@@ -108,6 +116,8 @@ This is useful to you, if:
 
 I wrote and maintain
 [the SCoRe user documentation](https://docs.score.nbis.se/).
+
+![SCoRe user documentation](score_user_doc.png)
 
 This is useful to you, if:
 
@@ -134,13 +144,12 @@ This is useful to you, if:
 
 ## Support 3/3
 
-I am working on a data transfer project, from Swestore
-(a NAISS storage system) to a within-university NAS,
-which is on a private GitHub repo.
-I got this job, as I already did the other way around two years ago (also
-on a private GitHub repo). Back then,
-I have uploaded the only YouTube video on
-[how to connect to Swestore using Rclone's web GUI](https://youtu.be/_MB2_GjWspw?si=kcKHi3HKcnLrx-CQ).
+I am working on a data transfer project for professor Marcel den Hoed.
+The goal is to transfer his data from Swestore
+(a NAISS storage system) to a within-university NAS.
+My notes and scripts are a private GitHub repo.
+
+![Marcel](marcel.png)
 
 This is useful to you, if:
 
@@ -151,16 +160,8 @@ This is useful to you, if:
 Together with several volunteers, I am leading
 [the Open Science Community Uppsala](https://open-science-community-uppsala.github.io/open_science_community_uppsala/).
 
+![OSCU](oscu.png)
+
 This is useful to you, if:
 
 - you want to discuss/talk/listen about Open Science
-
-
-
-
-
-
-
-
-
-
