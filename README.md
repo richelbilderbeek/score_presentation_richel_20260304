@@ -2,6 +2,8 @@
 
 My presentation at SCoRe
 
+- [YouTube video](https://youtu.be/2_evkTqFZWQ)
+
 ![Spacer](spacer.png)
 
 ## 1/11. Goal
