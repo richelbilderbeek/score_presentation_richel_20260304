@@ -2,9 +2,13 @@
 
 My presentation at SCoRe
 
+---
+
 ## Goal
 
 - To let my colleagues know what I do, so that can consider using some of it
+
+---
 
 ## What I do
 
@@ -55,6 +59,8 @@ Percentage|Activity                 |Example
 3         | Internal NBIS           |.
 2         | Outreach                |OSCU
 
+---
+
 ## Training
 
 From [the overview of my teaching](https://richelbilderbeek.github.io/teaching/teaching_overview/),
@@ -72,6 +78,8 @@ This is useful to you, if:
   look like
 - you need an example of a (teacher) reflections
 
+---
+
 ## Professsional development 1/3
 
 Together with Elin Kronander, we lead
@@ -83,6 +91,8 @@ which takes place around once a month.
 This is useful to you, if:
 
 - you want to improve your teaching based on the academic literature
+
+---
 
 ## Professsional development 2/3
 
@@ -98,6 +108,8 @@ This is useful to you, if:
   effective
 - you want to see how others teach
 
+---
+
 ## Professsional development 3/3
 
 With another colleague, we are working on
@@ -111,6 +123,8 @@ This is useful to you, if:
 
 - you want to know which questions -according to the academic literature-
   are useful to ask to learners for course evaluations
+
+---
 
 ## Support 1/3
 
@@ -127,6 +141,8 @@ This is useful to you, if:
 - you need to get an overview of storage systems
 - you need someone to use their HPC resources efficiently
 
+---
+
 ## Support 2/3
 
 Björn Claremar and I are heavy contributors to
@@ -142,6 +158,8 @@ This is useful to you, if:
 - you want to show a documentation site that **shows** that the
   maintainers care about their users
 
+---
+
 ## Support 3/3
 
 I am working on a data transfer project for professor Marcel den Hoed.
@@ -154,6 +172,8 @@ My notes and scripts are a private GitHub repo.
 This is useful to you, if:
 
 - you want access to notes on how to use Swestore and Rclone
+
+---
 
 ## Outreach
 
