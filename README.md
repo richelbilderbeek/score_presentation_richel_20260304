@@ -124,13 +124,36 @@ Björn Claremar and I are heavy contributors to
 I use this documentation in teaching too, assuring that it
 is kept up-to-date.
 
+![UPPMAX documentation](uppmax_doc.png)
+
 This is useful to you, if:
 
 - you want to redirect an UPPMAX user to the documentation
 - you want to show a documentation site that **shows** that the
   maintainers care about their users
 
+## Support 3/3
 
+I am working on a data transfer project, from Swestore
+(a NAISS storage system) to a within-university NAS,
+which is on a private GitHub repo.
+I got this job, as I already did the other way around two years ago (also
+on a private GitHub repo). Back then,
+I have uploaded the only YouTube video on
+[how to connect to Swestore using Rclone's web GUI](https://youtu.be/_MB2_GjWspw?si=kcKHi3HKcnLrx-CQ).
+
+This is useful to you, if:
+
+- you want access to notes on how to use Swestore and Rclone
+
+## Outreach
+
+Together with several volunteers, I am leading
+[the Open Science Community Uppsala](https://open-science-community-uppsala.github.io/open_science_community_uppsala/).
+
+This is useful to you, if:
+
+- you want to discuss/talk/listen about Open Science
 
 
 
