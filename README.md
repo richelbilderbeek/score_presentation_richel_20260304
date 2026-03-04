@@ -2,13 +2,13 @@
 
 My presentation at SCoRe
 
----
+![Spacer](spacer.png)
 
 ## Goal
 
 - To let my colleagues know what I do, so that can consider using some of it
 
----
+![Spacer](spacer.png)
 
 ## What I do
 
@@ -59,7 +59,7 @@ Percentage|Activity                 |Example
 3         | Internal NBIS           |.
 2         | Outreach                |OSCU
 
----
+![Spacer](spacer.png)
 
 ## Training
 
@@ -78,7 +78,7 @@ This is useful to you, if:
   look like
 - you need an example of a (teacher) reflections
 
----
+![Spacer](spacer.png)
 
 ## Professsional development 1/3
 
@@ -92,7 +92,7 @@ This is useful to you, if:
 
 - you want to improve your teaching based on the academic literature
 
----
+![Spacer](spacer.png)
 
 ## Professsional development 2/3
 
@@ -108,7 +108,7 @@ This is useful to you, if:
   effective
 - you want to see how others teach
 
----
+![Spacer](spacer.png)
 
 ## Professsional development 3/3
 
@@ -124,7 +124,7 @@ This is useful to you, if:
 - you want to know which questions -according to the academic literature-
   are useful to ask to learners for course evaluations
 
----
+![Spacer](spacer.png)
 
 ## Support 1/3
 
@@ -141,7 +141,7 @@ This is useful to you, if:
 - you need to get an overview of storage systems
 - you need someone to use their HPC resources efficiently
 
----
+![Spacer](spacer.png)
 
 ## Support 2/3
 
@@ -158,7 +158,7 @@ This is useful to you, if:
 - you want to show a documentation site that **shows** that the
   maintainers care about their users
 
----
+![Spacer](spacer.png)
 
 ## Support 3/3
 
@@ -173,7 +173,7 @@ This is useful to you, if:
 
 - you want access to notes on how to use Swestore and Rclone
 
----
+![Spacer](spacer.png)
 
 ## Outreach
 
