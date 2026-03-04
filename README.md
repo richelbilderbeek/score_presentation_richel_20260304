@@ -185,3 +185,7 @@ Together with several volunteers, I am leading
 This is useful to you, if:
 
 - you want to discuss/talk/listen about Open Science
+
+![Spacer](spacer.png)
+
+## Done!
