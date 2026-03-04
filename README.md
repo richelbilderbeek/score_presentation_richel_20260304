@@ -45,7 +45,7 @@ flowchart TD
   elixir_evaluation_evaluation -.-> training
 ```
 
-![Urdr](urdr.png)
+![Urdr](urdr_with_border.png)
 
 Percentage|Activity                 |Example
 ----------|-------------------------|----------------
@@ -60,7 +60,7 @@ Percentage|Activity                 |Example
 From [the overview of my teaching](https://richelbilderbeek.github.io/teaching/teaching_overview/),
 one can conclude I teach around once per week.
 
-![Teaching overview](teaching.png)
+![Teaching overview](teaching_with_border.png)
 
 This is useful to you, if:
 
@@ -78,7 +78,7 @@ Together with Elin Kronander, we lead
 [the NBIS teaching literature club](https://nbisweden.github.io/teaching_literature_club/),
 which takes place around once a month.
 
-![NBIS Teaching Literature Club](tlc.png)
+![NBIS Teaching Literature Club](tlc_with_border.png)
 
 This is useful to you, if:
 
@@ -90,7 +90,7 @@ With some colleagues, we are starting up a
 [teaching peer observation group](https://richelbilderbeek.github.io/teaching/peer_observations),
 to observe each others' teaching as equals.
 
-![Peer observations](peer_observations.png)
+![Peer observations](peer_observations_with_border.png)
 
 This is useful to you, if:
 
@@ -105,7 +105,7 @@ With another colleague, we are working on
 called 'Improving the ELIXIR evaluation for both management and trainers'
 with evaluates the ELIXIR/NBIS evaluation.
 
-![ELIXIR evaluation evaluation](elixir_evaluation_evaluation.png)
+![ELIXIR evaluation evaluation](elixir_evaluation_evaluation_with_border.png)
 
 This is useful to you, if:
 
@@ -117,7 +117,7 @@ This is useful to you, if:
 I wrote and maintain
 [the SCoRe user documentation](https://docs.score.nbis.se/).
 
-![SCoRe user documentation](score_user_doc.png)
+![SCoRe user documentation](score_user_doc_with_border.png)
 
 This is useful to you, if:
 
@@ -134,7 +134,7 @@ Björn Claremar and I are heavy contributors to
 I use this documentation in teaching too, assuring that it
 is kept up-to-date.
 
-![UPPMAX documentation](uppmax_doc.png)
+![UPPMAX documentation](uppmax_doc_with_border.png)
 
 This is useful to you, if:
 
@@ -149,7 +149,7 @@ The goal is to transfer his data from Swestore
 (a NAISS storage system) to a within-university NAS.
 My notes and scripts are a private GitHub repo.
 
-![Marcel](marcel.png)
+![Marcel](marcel_with_border.png)
 
 This is useful to you, if:
 
@@ -160,7 +160,7 @@ This is useful to you, if:
 Together with several volunteers, I am leading
 [the Open Science Community Uppsala](https://open-science-community-uppsala.github.io/open_science_community_uppsala/).
 
-![OSCU](oscu.png)
+![OSCU](oscu_with_border.png)
 
 This is useful to you, if:
 
