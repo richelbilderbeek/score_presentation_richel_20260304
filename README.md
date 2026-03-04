@@ -6,7 +6,8 @@ My presentation at SCoRe
 
 ## Goal
 
-- To let my colleagues know what I do, so that can consider using some of it
+- To let my colleagues know what I do,
+  so they can consider if some things are useful to them
 
 ![Spacer](spacer.png)
 
