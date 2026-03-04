@@ -4,14 +4,14 @@ My presentation at SCoRe
 
 ![Spacer](spacer.png)
 
-## Goal
+## 1/11. Goal
 
 - To let my colleagues know what I do,
   so they can consider if some things are useful to them
 
 ![Spacer](spacer.png)
 
-## What I do
+## 2/11. What I do
 
 ```mermaid
 flowchart TD
@@ -62,7 +62,7 @@ Percentage|Activity                 |Example
 
 ![Spacer](spacer.png)
 
-## Training
+## 3/11. Training
 
 From [the overview of my teaching](https://richelbilderbeek.github.io/teaching/teaching_overview/),
 one can conclude I teach around once per week.
@@ -81,7 +81,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Professsional development 1/3
+## 4/11. Professsional development 1/3
 
 Together with Elin Kronander, we lead
 [the NBIS teaching literature club](https://nbisweden.github.io/teaching_literature_club/),
@@ -95,7 +95,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Professsional development 2/3
+## 5/11. Professsional development 2/3
 
 With some colleagues, we are starting up a
 [teaching peer observation group](https://richelbilderbeek.github.io/teaching/peer_observations),
@@ -111,7 +111,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Professsional development 3/3
+## 6/11. Professsional development 3/3
 
 With another colleague, we are working on
 [a paper](https://nbisweden.github.io/elixir_evaluation_evaluation/)
@@ -127,7 +127,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Support 1/3
+## 7/11. Support 1/3
 
 I wrote and maintain
 [the SCoRe user documentation](https://docs.score.nbis.se/).
@@ -144,7 +144,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Support 2/3
+## 8/11. Support 2/3
 
 Björn Claremar and I are heavy contributors to
 [the UPPMAX documentation](https://docs.uppmax.uu.se/).
@@ -161,7 +161,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Support 3/3
+## 9/11. Support 3/3
 
 I am working on a data transfer project for professor Marcel den Hoed.
 The goal is to transfer his data from Swestore
@@ -176,7 +176,7 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Outreach
+## 10/11. Outreach
 
 Together with several volunteers, I am leading
 [the Open Science Community Uppsala](https://open-science-community-uppsala.github.io/open_science_community_uppsala/).
@@ -189,4 +189,4 @@ This is useful to you, if:
 
 ![Spacer](spacer.png)
 
-## Done!
+## 11/11. Done!
